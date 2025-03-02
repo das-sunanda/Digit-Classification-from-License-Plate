@@ -56,20 +56,13 @@ Estimated Total Size (MB): 3.70
 - The contour-based method effectively isolates digits for classification.
 - NMS ensures minimal false detections.
 
+## Loss and Accuracy Visualization
+<img src="outputs/loss-acc.png" width="600" height="250">
+
 ## Sample Model Outputs
 Here are some sample predictions from the trained model:
 
-### Example 1
-![Prediction 1](outputs/sample1.png)
-
-### Example 2
-![Prediction 2](outputs/sample2.png)
-
-### Example 3
-![Prediction 3](outputs/arkansas.png)
-
-### Example 4
-![Prediction 4](outputs/newyork.png)
+<img src="outputs/output.png" width="600" height="450">
 
 ## Future Improvements
 - Extend classification to include alphanumeric characters.
