@@ -81,3 +81,6 @@ Here are some sample predictions from the trained model:
 - [PyTorch](https://pytorch.org/) for deep learning framework.
 - [OpenCV](https://opencv.org/) for image processing.
 - MNIST dataset for digit classification.
+
+## License
+This project is licensed under the MIT License.
